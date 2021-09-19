@@ -385,7 +385,7 @@
 }
 
  .thumbnail .thumbnail__btn .btn{
-    margin-bottom: 0;
+    margin-bottom: 16px;
   }
 
   /*imgbox*/
